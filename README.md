@@ -40,7 +40,6 @@ AI-generated career recommendations
 Chat sidebar with saved sessions
 Authentication flow
 
-🎥 Prototype Video
 
 
 1. Clone Repo
